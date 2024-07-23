@@ -1,1 +1,1 @@
-# Appartment_Management_System
+# Apartment_Management_System
